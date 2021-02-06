@@ -1,6 +1,6 @@
 {
-  "name": "vue-currency-input",
-  "description": "Easy input of currency formatted numbers for Vue.js.",
+  "name": "vue-currency-input-mike-munchdev-fork",
+  "description": "Easy input of currency formatted numbers for Vue.js. (FORK)",
   "version": "2.0.0-beta.3",
   "license": "MIT",
   "unpkg": "dist/vue-currency-input.umd.js",
@@ -13,12 +13,12 @@
     "src/index.d.ts"
   ],
   "sideeffects": false,
-  "author": "Matthias Stiller",
+  "author": "Matthias Stiller (Forked by Michael J. Griffin, Jr.)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dm4t2/vue-currency-input.git"
+    "url": "https://github.com/mike-munchdev/vue-currency-input.git"
   },
-  "homepage": "https://dm4t2.github.io/vue-currency-input",
+  "homepage": "https://mike-munchdev.github.io/vue-currency-input",
   "keywords": [
     "vue",
     "composition api",
